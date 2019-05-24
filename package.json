@@ -1,0 +1,22 @@
+{
+  "name": "creatr",
+  "version": "1.0.0",
+  "description": "Script to make new github repos for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "creatr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abevalle/creatr.git"
+  },
+  "author": "abevalle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abevalle/creatr/issues"
+  },
+  "homepage": "https://github.com/abevalle/creatr#readme",
+  "dependencies": {
+    "tplink-smarthome-api": "^1.2.0"
+  }
+}
