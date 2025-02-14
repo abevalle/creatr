@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/abevalle/creatr#readme",
   "dependencies": {
-    "@octokit/rest": "^16.27.0"
+    "@octokit/rest": "^21.1.0"
   }
 }
